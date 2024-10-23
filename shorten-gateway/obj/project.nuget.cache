@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kokzGR5utBWOPoIb69l6/fsWQYr0hHSNZwVr6WUm8P3cH92LsMycvhko1Tv4WMasJuo/p2whaa1u19DXrVfVRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Innoc\\source\\repos\\shorten-gateway\\shorten-gateway\\shorten-gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Innoc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Innoc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Innoc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Innoc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Innoc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Innoc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
